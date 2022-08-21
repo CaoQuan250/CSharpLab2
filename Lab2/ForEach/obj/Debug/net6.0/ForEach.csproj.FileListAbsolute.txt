@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\bin\Debug\net6.0\ForEach.exe
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\bin\Debug\net6.0\ForEach.deps.json
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\bin\Debug\net6.0\ForEach.dll
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\bin\Debug\net6.0\ForEach.pdb
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.dll
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\refint\ForEach.dll
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.pdb
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ForEach\obj\Debug\net6.0\ref\ForEach.dll

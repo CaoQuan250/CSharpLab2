@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\bin\Debug\net6.0\ObjectArray.exe
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\bin\Debug\net6.0\ObjectArray.deps.json
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\bin\Debug\net6.0\ObjectArray.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\bin\Debug\net6.0\ObjectArray.dll
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\bin\Debug\net6.0\ObjectArray.pdb
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.dll
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\refint\ObjectArray.dll
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.pdb
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ObjectArray.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Lab2\ObjectArray\obj\Debug\net6.0\ref\ObjectArray.dll
